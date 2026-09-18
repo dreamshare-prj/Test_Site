@@ -1,0 +1,664 @@
+{
+  "type": "FeatureCollection",
+  "name": "kousyuutoirelist",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 1,
+        "公園名": "中央街区公園（銀天プラザ）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2421,
+          33.9544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 2,
+        "公園名": "中央町（シンボルロード）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2434,
+          33.9546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 3,
+        "公園名": "宮大路南街区公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2519,
+          33.9471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 4,
+        "公園名": "琴芝街区公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2491,
+          33.9506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 5,
+        "公園名": "真締川公園（真締大橋）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2448,
+          33.9502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 6,
+        "公園名": "真締川公園（緑橋）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2466,
+          33.953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 7,
+        "公園名": "片倉公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2977,
+          33.9813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 8,
+        "公園名": "真締川公園（宇部大橋）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2517,
+          33.9602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 9,
+        "公園名": "請川公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2963,
+          33.9854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 10,
+        "公園名": "中津瀬神社"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2495,
+          33.9489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 11,
+        "公園名": "松濤街区公園（北側）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2375,
+          33.9592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 12,
+        "公園名": "松濤街区公園（南側）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2366,
+          33.9582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 13,
+        "公園名": "松山通街区公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.258,
+          33.9384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 14,
+        "公園名": "松月堀街区公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2502,
+          33.9543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 15,
+        "公園名": "明神街区公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2608,
+          33.9301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 16,
+        "公園名": "琴崎公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2712,
+          33.9717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 17,
+        "公園名": "沼街区公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2609,
+          33.9623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 18,
+        "公園名": "真締川公園（樋ノ口橋）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2478,
+          33.9565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 19,
+        "公園名": "昭和町街区公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2527,
+          33.9437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 20,
+        "公園名": "展望公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2981,
+          33.9674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 21,
+        "公園名": "南方公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.3107,
+          33.9655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 22,
+        "公園名": "常藤街区公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2533,
+          33.9476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 23,
+        "公園名": "神原公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2551,
+          33.9531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 24,
+        "公園名": "南神原公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2537,
+          33.9521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 25,
+        "公園名": "琴崎街区公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2682,
+          33.9703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 26,
+        "公園名": "福原史跡公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2656,
+          33.9688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 27,
+        "公園名": "宮地街区公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2573,
+          33.9625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 28,
+        "公園名": "生野児童遊園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2597,
+          33.9629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 29,
+        "公園名": "寺の前第二街区公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.266,
+          33.9637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 30,
+        "公園名": "参宮通児童遊園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2608,
+          33.9606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 31,
+        "公園名": "上宇部中学校通児童遊園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2634,
+          33.9604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 32,
+        "公園名": "ひらき台１号公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2788,
+          33.9708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 33,
+        "公園名": "小羽山３号街区公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2544,
+          33.9779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 34,
+        "公園名": "鵜の島街区公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2353,
+          33.9622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 35,
+        "公園名": "上町街区公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2386,
+          33.9605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 36,
+        "公園名": "岩鼻西街区公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2236,
+          33.9796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 37,
+        "公園名": "松浜街区公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2438,
+          33.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 38,
+        "公園名": "梶返街区公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2636,
+          33.9556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 39,
+        "公園名": "前田街区公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.3474,
+          33.9937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 40,
+        "公園名": "真締川公園（新錦橋）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2457,
+          33.9508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 41,
+        "公園名": "黄幡街区公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2452,
+          33.9627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 42,
+        "公園名": "岬街区公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2591,
+          33.9357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 43,
+        "公園名": "上中野街区公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2168,
+          33.9994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 44,
+        "公園名": "京納児童遊園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2583,
+          33.9644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 45,
+        "公園名": "居能街区公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2298,
+          33.9666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 46,
+        "公園名": "開街区公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2759,
+          33.9625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "番号": 47,
+        "公園名": "西宇部街区公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2234,
+          34.0006
+        ]
+      }
+    }
+  ]
+}
